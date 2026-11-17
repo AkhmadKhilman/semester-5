@@ -22,3 +22,6 @@
 [submodule "5-aplikasi-mobile/uts-pml-1124160075"]
 	path = 5-aplikasi-mobile/uts-pml-1124160075
 	url = https://github.com/AkhmadKhilman/uts-pml-1124160075.git
+[submodule "5-aplikasi-mobile/latihan-flutter-1"]
+	path = 5-aplikasi-mobile/latihan-flutter-1
+	url = https://github.com/AkhmadKhilman/latihan-flutter-1.git
