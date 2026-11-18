@@ -7,6 +7,9 @@
 [submodule "5-aplikasi-mobile/latihan-dasar-flutter-3"]
 	path = 5-aplikasi-mobile/latihan-dasar-flutter-3
 	url = https://github.com/AkhmadKhilman/latihan-dasar-flutter-3.git
+[submodule "5-aplikasi-mobile/latihan-dasar-flutter-4"]
+	path = 5-aplikasi-mobile/latihan-dasar-flutter-4
+	url = https://github.com/AkhmadKhilman/latihan-dasar-flutter-4.git
 [submodule "5-aplikasi-mobile/latihan-praktikum-flutter-1"]
 	path = 5-aplikasi-mobile/latihan-praktikum-flutter-1
 	url = https://github.com/AkhmadKhilman/latihan-praktikum-flutter-1.git
@@ -16,12 +19,9 @@
 [submodule "5-aplikasi-mobile/latihan-dasar-dart"]
 	path = 5-aplikasi-mobile/latihan-dasar-dart
 	url = https://github.com/AkhmadKhilman/latihan-dasar-dart.git
-[submodule "5-aplikasi-mobile/latihan-dasar-flutter-4"]
-	path = 5-aplikasi-mobile/latihan-dasar-flutter-4
-	url = https://github.com/AkhmadKhilman/latihan-dasar-flutter-4.git
 [submodule "5-aplikasi-mobile/uts-pml-1124160075"]
 	path = 5-aplikasi-mobile/uts-pml-1124160075
 	url = https://github.com/AkhmadKhilman/uts-pml-1124160075.git
-[submodule "5-aplikasi-mobile/latihan-flutter-1"]
-	path = 5-aplikasi-mobile/latihan-flutter-1
-	url = https://github.com/AkhmadKhilman/latihan-flutter-1.git
+[submodule "5-aplikasi-mobile/latihan-firebase"]
+	path = 5-aplikasi-mobile/latihan-firebase
+	url = https://github.com/AkhmadKhilman/latihan-firebase.git
