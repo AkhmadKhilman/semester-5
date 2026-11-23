@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'>
+<head>
+<meta charset="utf-8">
+<title>Resume Lengkap Jurnal Fuzzy Tsukamoto - Opak Gambir (Format PPT Dosen)</title>
+<!--[if gte mso 9]>
+<xml><w:WordDocument><w:View>Print</w:View><w:Zoom>90</w:Zoom></w:WordDocument></xml>
+<![endif]-->
+<style>
+  @page Section1 { size: 21cm 29.7cm; margin: 2cm; }
+  div.Section1 { page: Section1; }
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 11pt;
+    line-height: 1.5;
+    color: #1e293b;
+    background-color: #f8fafc;
+    margin: 0;
+    padding: 15px;
+  }
+  .container {
+    max-width: 900px;
+    margin: 0 auto;
+    background: #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+  }
+  h1 {
+    font-size: 15pt;
+    color: #0f172a;
+    text-align: center;
+    border-bottom: 2.5pt solid #2563eb;
+    padding-bottom: 8pt;
+    margin-bottom: 4pt;
+    text-transform: uppercase;
+  }
+  .subtitle { text-align: center; font-size: 10.5pt; color: #64748b; margin-bottom: 20pt; }
+  
+  .slide-box {
+    border: 1.5pt solid #cbd5e1;
+    border-radius: 8px;
+    padding: 16px 20px;
+    margin-bottom: 20px;
+    background: #ffffff;
+  }
+  .slide-header {
+    border-bottom: 1.5pt solid #e2e8f0;
+    padding-bottom: 6px;
+    margin-bottom: 12px;
+  }
+  .slide-title {
+    font-size: 13pt;
+    font-weight: bold;
+    color: #1e3a8a;
+  }
+  .badge-red { background: #ef4444; color: #fff; padding: 2px 8px; border-radius: 3px; font-weight: bold; font-size: 9.5pt; }
+  .badge-blue { background: #2563eb; color: #fff; padding: 2px 8px; border-radius: 3px; font-weight: bold; font-size: 9.5pt; }
+  .badge-green { background: #10b981; color: #fff; padding: 2px 8px; border-radius: 3px; font-weight: bold; font-size: 9.5pt; }
+  
+  .yellow-box {
+    background-color: #fef08a;
+    border: 1pt solid #fde047;
+    color: #713f12;
+    padding: 8px 12px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 10.5pt;
+    margin-bottom: 12px;
+  }
+  .correction-box {
+    background-color: #fff1f2;
+    border-left: 3.5pt solid #f43f5e;
+    padding: 8px 12px;
+    border-radius: 4px;
+    font-size: 9.5pt;
+    color: #881337;
+    margin-top: 10px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 10px 0;
+    font-size: 10pt;
+  }
+  th { background-color: #1e40af; color: #ffffff; padding: 7px 9px; border: 1pt solid #cbd5e1; text-align: center; }
+  td { border: 1pt solid #cbd5e1; padding: 6px 9px; text-align: center; }
+  tr:nth-child(even) { background-color: #f8fafc; }
+  
+  .formula-block {
+    background: #f8fafc;
+    border: 1pt solid #cbd5e1;
+    border-radius: 5px;
+    padding: 8px 12px;
+    font-family: 'Consolas', 'Courier New', monospace;
+    font-size: 10pt;
+    color: #0f172a;
+    line-height: 1.5;
+  }
+  
+  .result-banner {
+    background-color: #10b981;
+    color: white;
+    padding: 14px 18px;
+    border-radius: 6px;
+    text-align: center;
+    font-size: 12pt;
+    font-weight: bold;
+    margin-top: 12px;
+  }
+</style>
+</head>
+<body>
+<div class="Section1">
+<div class="container">
+
+  <h1>RESUME JURNAL FUZZY TSUKAMOTO<br><span style="font-size: 11pt; font-weight: normal; color: #475569;">Studi Kasus: Sistem Pendukung Keputusan Jumlah Produksi Opak Gambir</span></h1>
+  <div class="subtitle">Format Perhitungan &amp; Grafik Visual 100% Presisi Sesuai Standar Slide Kuliah Dosen</div>
+
+  <!-- IDENTITAS JURNAL -->
+  <div style="background-color: #eff6ff; border: 1pt solid #bfdbfe; border-radius: 6px; padding: 12px 16px; margin-bottom: 20px; font-size: 10pt;">
+    <b>📋 Data Identitas Jurnal:</b><br>
+    • <b>Judul:</b> Penerapan Metode Fuzzy Tsukamoto dalam Sistem Pendukung Keputusan untuk Menentukan Jumlah Produksi Opak Gambir<br>
+    • <b>Penulis:</b> Moh Bagus Sholikul Adib, Abd. Charis Fauzan, Naela Nur Choiriyah, Ilham Kurniawan<br>
+    • <b>Jurnal:</b> ILKOMNIKA: Journal of Computer Science and Applied Informatics (Vol. 2, No. 1, April 2020)<br>
+    • <b>Penerbit:</b> Universitas Nahdlatul Ulama Blitar | <b>DOI:</b> 10.28926/ilkomnika.v2i1.27<br>
+    • <b>Link Resmi:</b> https://journal.unublitar.ac.id/ilkomnika/index.php/ilkomnika/article/view/27
+  </div>
+
+  <!-- SLIDE 1 -->
+  <div class="slide-box">
+    <div class="slide-header">
+      <span class="slide-title">DESKRIPSI STUDI KASUS &amp; VARIABEL</span>
+    </div>
+    <p>Sebuah industri UMKM Opak Gambir di Blitar memproduksi opak gambir dengan data historis selama 12 bulan. Untuk menentukan jumlah produksi bulan berikutnya, digunakan <b>2 Variabel Input</b> dan <b>1 Variabel Output</b>:</p>
+    
+    <table>
+      <tr>
+        <th>Jenis Variabel</th>
+        <th>Nama Variabel</th>
+        <th>Himpunan Fuzzy</th>
+        <th>Domain Semesta Pembicaraan</th>
+      </tr>
+      <tr>
+        <td><b>Variabel Input 1</b></td>
+        <td>Permintaan Pasar ($x$)</td>
+        <td>{ TURUN, NAIK }</td>
+        <td><b>2.000</b> s/d <b>5.500</b> bungkus</td>
+      </tr>
+      <tr>
+        <td><b>Variabel Input 2</b></td>
+        <td>Persediaan Gudang ($y$)</td>
+        <td>{ SEDIKIT, BANYAK }</td>
+        <td><b>100</b> s/d <b>600</b> bungkus</td>
+      </tr>
+      <tr>
+        <td><b>Variabel Output</b></td>
+        <td>Jumlah Produksi ($z$)</td>
+        <td>{ BERKURANG, BERTAMBAH }</td>
+        <td><b>3.000</b> s/d <b>6.000</b> bungkus</td>
+      </tr>
+    </table>
+
+    <div class="yellow-box">
+      🎯 Kasus Pengujian Riil yang Dihitung:<br>
+      Jika jumlah <u>Permintaan = 2.600 bungkus</u> dan <u>Persediaan = 440 bungkus</u>, berapa bungkus Opak Gambir yang harus diproduksi ($Z^*$)?
+    </div>
+  </div>
+
+  <!-- SLIDE 2: FUZZIFIKASI 1 -->
+  <div class="slide-box">
+    <div class="slide-header">
+      <span class="slide-title">1. FUZZIFIKASI — Variabel 1: Permintaan</span>
+    </div>
+
+    <div class="yellow-box">
+      Berapa derajat keanggotaan untuk Permintaan = 2.600 bungkus?
+    </div>
+
+    <table style="border:none; margin:0;">
+      <tr>
+        <td style="border:none; width:50%; vertical-align:middle; padding:5px;">
+          <!-- SVG Grafik Permintaan -->
+          <svg viewBox="0 0 380 200" width="100%" height="190" style="background:#fff; border:1px solid #cbd5e1; border-radius:6px;">
+            <rect x="55" y="10" width="60" height="20" fill="#ef4444" rx="3"/>
+            <text x="85" y="24" fill="#fff" font-size="10" font-weight="bold" text-anchor="middle">TURUN</text>
+            <rect x="255" y="10" width="55" height="20" fill="#2563eb" rx="3"/>
+            <text x="282" y="24" fill="#fff" font-size="10" font-weight="bold" text-anchor="middle">NAIK</text>
+
+            <line x1="45" y1="160" x2="350" y2="160" stroke="#334155" stroke-width="1.8"/>
+            <line x1="45" y1="160" x2="45" y2="35" stroke="#334155" stroke-width="1.8"/>
+            <text x="35" y="164" font-size="10" font-family="monospace" text-anchor="end">0</text>
+            <text x="35" y="44" font-size="10" font-family="monospace" text-anchor="end">1</text>
+            <text x="20" y="100" font-size="11" font-weight="bold" text-anchor="middle" transform="rotate(-90 20 100)">μ(x)</text>
+
+            <line x1="45" y1="40" x2="280" y2="40" stroke="#94a3b8" stroke-dasharray="3,3"/>
+            <polyline points="45,40 85,40 280,160" fill="none" stroke="#ef4444" stroke-width="2.5"/>
+            <polyline points="45,160 85,160 280,40 330,40" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+
+            <line x1="118.4" y1="160" x2="118.4" y2="40" stroke="#8b5cf6" stroke-dasharray="3,3" stroke-width="1.8"/>
+            <line x1="45" y1="60.6" x2="118.4" y2="60.6" stroke="#ef4444" stroke-dasharray="3,3" stroke-width="1.5"/>
+            <line x1="45" y1="139.4" x2="118.4" y2="139.4" stroke="#2563eb" stroke-dasharray="3,3" stroke-width="1.5"/>
+
+            <circle cx="118.4" cy="60.6" r="3.5" fill="#ef4444"/>
+            <circle cx="118.4" cy="139.4" r="3.5" fill="#2563eb"/>
+
+            <text x="85" y="175" font-size="10" font-family="monospace" text-anchor="middle">2000</text>
+            <text x="118.4" y="190" font-size="10" font-weight="bold" fill="#8b5cf6" font-family="monospace" text-anchor="middle">2600</text>
+            <text x="280" y="175" font-size="10" font-family="monospace" text-anchor="middle">5500</text>
+
+            <text x="35" y="64" font-size="9" font-weight="bold" fill="#ef4444" font-family="monospace" text-anchor="end">0.83</text>
+            <text x="35" y="143" font-size="9" font-weight="bold" fill="#2563eb" font-family="monospace" text-anchor="end">0.17</text>
+          </svg>
+        </td>
+        <td style="border:none; width:50%; vertical-align:middle; padding:5px;">
+          <div class="formula-block">
+            <b>μ<sub>TURUN</sub>(2600)</b> = (5500 - 2600) / (5500 - 2000)<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = 2900 / 3500<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = <b>0,83</b> (atau 0,8286)<br><br>
+            <b>μ<sub>NAIK</sub>(2600)</b> &nbsp;= (2600 - 2000) / (5500 - 2000)<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = 600 / 3500<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = <b>0,17</b> (atau 0,1714)
+          </div>
+        </td>
+      </tr>
+    </table>
+
+    <div style="margin-top:10px; font-size:9.5pt; color:#475569;" class="formula-block">
+      <b>Fungsi Matematis:</b><br>
+      μ<sub>TURUN</sub>(x) = { 1; x ≤ 2000 &nbsp;|&nbsp; (5500 - x)/3500; 2000 ≤ x ≤ 5500 &nbsp;|&nbsp; 0; x ≥ 5500 }<br>
+      μ<sub>NAIK</sub>(x) &nbsp;= { 0; x ≤ 2000 &nbsp;|&nbsp; (x - 2000)/3500; 2000 ≤ x ≤ 5500 &nbsp;|&nbsp; 1; x ≥ 5500 }
+    </div>
+  </div>
+
+  <!-- SLIDE 3: FUZZIFIKASI 2 -->
+  <div class="slide-box">
+    <div class="slide-header">
+      <span class="slide-title">1. FUZZIFIKASI — Variabel 2: Persediaan</span>
+    </div>
+
+    <div class="yellow-box">
+      Berapa derajat keanggotaan untuk Persediaan = 440 bungkus?
+    </div>
+
+    <table style="border:none; margin:0;">
+      <tr>
+        <td style="border:none; width:50%; vertical-align:middle; padding:5px;">
+          <!-- SVG Grafik Persediaan -->
+          <svg viewBox="0 0 380 200" width="100%" height="190" style="background:#fff; border:1px solid #cbd5e1; border-radius:6px;">
+            <rect x="55" y="10" width="65" height="20" fill="#ef4444" rx="3"/>
+            <text x="87" y="24" fill="#fff" font-size="10" font-weight="bold" text-anchor="middle">SEDIKIT</text>
+            <rect x="255" y="10" width="60" height="20" fill="#2563eb" rx="3"/>
+            <text x="285" y="24" fill="#fff" font-size="10" font-weight="bold" text-anchor="middle">BANYAK</text>
+
+            <line x1="45" y1="160" x2="350" y2="160" stroke="#334155" stroke-width="1.8"/>
+            <line x1="45" y1="160" x2="45" y2="35" stroke="#334155" stroke-width="1.8"/>
+            <text x="35" y="164" font-size="10" font-family="monospace" text-anchor="end">0</text>
+            <text x="35" y="44" font-size="10" font-family="monospace" text-anchor="end">1</text>
+            <text x="20" y="100" font-size="11" font-weight="bold" text-anchor="middle" transform="rotate(-90 20 100)">μ(y)</text>
+
+            <line x1="45" y1="40" x2="280" y2="40" stroke="#94a3b8" stroke-dasharray="3,3"/>
+            <polyline points="45,40 85,40 280,160" fill="none" stroke="#ef4444" stroke-width="2.5"/>
+            <polyline points="45,160 85,160 280,40 330,40" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+
+            <line x1="217.6" y1="160" x2="217.6" y2="40" stroke="#8b5cf6" stroke-dasharray="3,3" stroke-width="1.8"/>
+            <line x1="45" y1="121.6" x2="217.6" y2="121.6" stroke="#ef4444" stroke-dasharray="3,3" stroke-width="1.5"/>
+            <line x1="45" y1="78.4" x2="217.6" y2="78.4" stroke="#2563eb" stroke-dasharray="3,3" stroke-width="1.5"/>
+
+            <circle cx="217.6" cy="121.6" r="3.5" fill="#ef4444"/>
+            <circle cx="217.6" cy="78.4" r="3.5" fill="#2563eb"/>
+
+            <text x="85" y="175" font-size="10" font-family="monospace" text-anchor="middle">100</text>
+            <text x="217.6" y="190" font-size="10" font-weight="bold" fill="#8b5cf6" font-family="monospace" text-anchor="middle">440</text>
+            <text x="280" y="175" font-size="10" font-family="monospace" text-anchor="middle">600</text>
+
+            <text x="35" y="125" font-size="9" font-weight="bold" fill="#ef4444" font-family="monospace" text-anchor="end">0.32</text>
+            <text x="35" y="82" font-size="9" font-weight="bold" fill="#2563eb" font-family="monospace" text-anchor="end">0.68</text>
+          </svg>
+        </td>
+        <td style="border:none; width:50%; vertical-align:middle; padding:5px;">
+          <div class="formula-block">
+            <b>μ<sub>SEDIKIT</sub>(440)</b> = (600 - 440) / (600 - 100)<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = 160 / 500<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = <b>0,32</b><br><br>
+            <b>μ<sub>BANYAK</sub>(440)</b> &nbsp;= (440 - 100) / (600 - 100)<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = 340 / 500<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = <b>0,68</b>
+          </div>
+        </td>
+      </tr>
+    </table>
+
+    <div style="margin-top:10px; font-size:9.5pt; color:#475569;" class="formula-block">
+      <b>Fungsi Matematis:</b><br>
+      μ<sub>SEDIKIT</sub>(y) = { 1; y ≤ 100 &nbsp;|&nbsp; (600 - y)/500; 100 ≤ y ≤ 600 &nbsp;|&nbsp; 0; y ≥ 600 }<br>
+      μ<sub>BANYAK</sub>(y) &nbsp;= { 0; y ≤ 100 &nbsp;|&nbsp; (y - 100)/500; 100 ≤ y ≤ 600 &nbsp;|&nbsp; 1; y ≥ 600 }
+    </div>
+  </div>
+
+  <!-- SLIDE 4: OUTPUT -->
+  <div class="slide-box">
+    <div class="slide-header">
+      <span class="slide-title">1. FUZZIFIKASI — Variabel 3: Jumlah Produksi (Output)</span>
+    </div>
+
+    <table style="border:none; margin:0;">
+      <tr>
+        <td style="border:none; width:50%; vertical-align:middle; padding:5px;">
+          <svg viewBox="0 0 380 180" width="100%" height="170" style="background:#fff; border:1px solid #cbd5e1; border-radius:6px;">
+            <rect x="55" y="10" width="80" height="20" fill="#ef4444" rx="3"/>
+            <text x="95" y="24" fill="#fff" font-size="10" font-weight="bold" text-anchor="middle">BERKURANG</text>
+            <rect x="245" y="10" width="80" height="20" fill="#2563eb" rx="3"/>
+            <text x="285" y="24" fill="#fff" font-size="10" font-weight="bold" text-anchor="middle">BERTAMBAH</text>
+
+            <line x1="45" y1="150" x2="350" y2="150" stroke="#334155" stroke-width="1.8"/>
+            <line x1="45" y1="150" x2="45" y2="35" stroke="#334155" stroke-width="1.8"/>
+            <text x="35" y="154" font-size="10" font-family="monospace" text-anchor="end">0</text>
+            <text x="35" y="44" font-size="10" font-family="monospace" text-anchor="end">1</text>
+            <text x="20" y="95" font-size="11" font-weight="bold" text-anchor="middle" transform="rotate(-90 20 95)">μ(z)</text>
+
+            <polyline points="45,40 95,40 285,150" fill="none" stroke="#ef4444" stroke-width="2.5"/>
+            <polyline points="45,150 95,150 285,40 330,40" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+
+            <text x="95" y="165" font-size="10" font-family="monospace" text-anchor="middle">3000</text>
+            <text x="285" y="165" font-size="10" font-family="monospace" text-anchor="middle">6000</text>
+          </svg>
+        </td>
+        <td style="border:none; width:50%; vertical-align:middle; padding:5px;">
+          <div class="formula-block">
+            <b>Fungsi Keanggotaan Output:</b><br><br>
+            <b>μ<sub>BERKURANG</sub>(z)</b> =<br>
+            { 0; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; z ≥ 6000<br>
+            &nbsp; (6000 - z)/3000; &nbsp; 3000 ≤ z ≤ 6000<br>
+            &nbsp; 1; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; z ≤ 3000 }<br><br>
+            <b>μ<sub>BERTAMBAH</sub>(z)</b> =<br>
+            { 0; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; z ≤ 3000<br>
+            &nbsp; (z - 3000)/3000; &nbsp; 3000 ≤ z ≤ 6000<br>
+            &nbsp; 1; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; z ≥ 6000 }
+          </div>
+        </td>
+      </tr>
+    </table>
+  </div>
+
+  <!-- SLIDE 5: RULES -->
+  <div class="slide-box">
+    <div class="slide-header">
+      <span class="slide-title">2. INFERENSI — Pembentukan Basis Aturan (Rule Base)</span>
+    </div>
+    <p>Terbentuk <b>4 Aturan Implikasi Fuzzy</b> dari kombinasi 2 Permintaan × 2 Persediaan:</p>
+    <ul>
+      <li><b>[R1]</b> JIKA Permintaan <b>TURUN</b> DAN Persediaan <b>BANYAK</b>, MAKA Produksi <b>BERKURANG</b></li>
+      <li><b>[R2]</b> JIKA Permintaan <b>TURUN</b> DAN Persediaan <b>SEDIKIT</b>, MAKA Produksi <b>BERKURANG</b></li>
+      <li><b>[R3]</b> JIKA Permintaan <b>NAIK</b> DAN Persediaan <b>BANYAK</b>, MAKA Produksi <b>BERTAMBAH</b></li>
+      <li><b>[R4]</b> JIKA Permintaan <b>NAIK</b> DAN Persediaan <b>SEDIKIT</b>, MAKA Produksi <b>BERTAMBAH</b></li>
+    </ul>
+  </div>
+
+  <!-- SLIDE 6: RULE 1 -->
+  <div class="slide-box">
+    <div class="slide-header">
+      <span class="slide-title">2. INFERENSI — Evaluasi Rule 1 [R1]</span>
+    </div>
+    <p><b>[R1] Jika Permintaan TURUN dan Persediaan BANYAK, maka Produksi BERKURANG</b></p>
+    
+    <table style="border:none; margin:0;">
+      <tr>
+        <td style="border:none; width:50%; vertical-align:middle; padding:5px;">
+          <div class="formula-block">
+            <b>• α-predikat₁</b> = min(μ<sub>TURUN</sub>(2600); μ<sub>BANYAK</sub>(440))<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = min(0,83 ; 0,68)<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = <b>0,68</b><br><br>
+            <b>• Nilai z₁:</b><br>
+            &nbsp;&nbsp;μ(z) = (6000 - z₁) / (6000 - 3000)<br>
+            &nbsp;&nbsp;0,68 = (6000 - z₁) / 3000<br>
+            &nbsp;&nbsp;6000 - z₁ = 2040<br>
+            &nbsp;&nbsp;z₁ = 6000 - 2040 = <b>3960</b>
+          </div>
+        </td>
+        <td style="border:none; width:50%; vertical-align:middle; padding:5px;">
+          <svg viewBox="0 0 380 180" width="100%" height="170" style="background:#fff; border:1px solid #cbd5e1; border-radius:6px;">
+            <rect x="55" y="8" width="75" height="18" fill="#ef4444" rx="3"/>
+            <text x="92" y="21" fill="#fff" font-size="9" font-weight="bold" text-anchor="middle">BERKURANG</text>
+            <line x1="45" y1="145" x2="350" y2="145" stroke="#334155" stroke-width="1.8"/>
+            <line x1="45" y1="145" x2="45" y2="30" stroke="#334155" stroke-width="1.8"/>
+            <polyline points="45,35 95,35 285,145" fill="none" stroke="#ef4444" stroke-width="2.5"/>
+
+            <line x1="45" y1="70.2" x2="155.8" y2="70.2" stroke="#2563eb" stroke-dasharray="3,3" stroke-width="1.5"/>
+            <line x1="155.8" y1="70.2" x2="155.8" y2="145" stroke="#2563eb" stroke-dasharray="3,3" stroke-width="1.8"/>
+            <circle cx="155.8" cy="70.2" r="3.5" fill="#2563eb"/>
+
+            <text x="35" y="74" font-size="9" font-weight="bold" fill="#2563eb" font-family="monospace" text-anchor="end">0.68</text>
+            <text x="95" y="160" font-size="9" font-family="monospace" text-anchor="middle">3000</text>
+            <text x="155.8" y="160" font-size="9" font-weight="bold" fill="#2563eb" font-family="monospace" text-anchor="middle">z₁=3960</text>
+            <text x="285" y="160" font-size="9" font-family="monospace" text-anchor="middle">6000</text>
+          </svg>
+        </td>
+      </tr>
+    </table>
+  </div>
+
+  <!-- SLIDE 7: RULE 2 -->
+  <div class="slide-box">
+    <div class="slide-header">
+      <span class="slide-title">2. INFERENSI — Evaluasi Rule 2 [R2]</span>
+    </div>
+    <p><b>[R2] Jika Permintaan TURUN dan Persediaan SEDIKIT, maka Produksi BERKURANG</b></p>
+    
+    <table style="border:none; margin:0;">
+      <tr>
+        <td style="border:none; width:50%; vertical-align:middle; padding:5px;">
+          <div class="formula-block">
+            <b>• α-predikat₂</b> = min(μ<sub>TURUN</sub>(2600); μ<sub>SEDIKIT</sub>(440))<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = min(0,83 ; 0,32)<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = <b>0,32</b><br><br>
+            <b>• Nilai z₂:</b><br>
+            &nbsp;&nbsp;μ(z) = (6000 - z₂) / (6000 - 3000)<br>
+            &nbsp;&nbsp;0,32 = (6000 - z₂) / 3000<br>
+            &nbsp;&nbsp;6000 - z₂ = 960<br>
+            &nbsp;&nbsp;z₂ = 6000 - 960 = <b>5040</b>
+          </div>
+        </td>
+        <td style="border:none; width:50%; vertical-align:middle; padding:5px;">
+          <svg viewBox="0 0 380 180" width="100%" height="170" style="background:#fff; border:1px solid #cbd5e1; border-radius:6px;">
+            <rect x="55" y="8" width="75" height="18" fill="#ef4444" rx="3"/>
+            <text x="92" y="21" fill="#fff" font-size="9" font-weight="bold" text-anchor="middle">BERKURANG</text>
+            <line x1="45" y1="145" x2="350" y2="145" stroke="#334155" stroke-width="1.8"/>
+            <line x1="45" y1="145" x2="45" y2="30" stroke="#334155" stroke-width="1.8"/>
+            <polyline points="45,35 95,35 285,145" fill="none" stroke="#ef4444" stroke-width="2.5"/>
+
+            <line x1="45" y1="109.8" x2="224.2" y2="109.8" stroke="#2563eb" stroke-dasharray="3,3" stroke-width="1.5"/>
+            <line x1="224.2" y1="109.8" x2="224.2" y2="145" stroke="#2563eb" stroke-dasharray="3,3" stroke-width="1.8"/>
+            <circle cx="224.2" cy="109.8" r="3.5" fill="#2563eb"/>
+
+            <text x="35" y="113" font-size="9" font-weight="bold" fill="#2563eb" font-family="monospace" text-anchor="end">0.32</text>
+            <text x="95" y="160" font-size="9" font-family="monospace" text-anchor="middle">3000</text>
+            <text x="224.2" y="160" font-size="9" font-weight="bold" fill="#2563eb" font-family="monospace" text-anchor="middle">z₂=5040</text>
+            <text x="285" y="160" font-size="9" font-family="monospace" text-anchor="middle">6000</text>
+          </svg>
+        </td>
+      </tr>
+    </table>
+  </div>
+
+  <!-- SLIDE 8: RULE 3 -->
+  <div class="slide-box">
+    <div class="slide-header">
+      <span class="slide-title">2. INFERENSI — Evaluasi Rule 3 [R3]</span>
+    </div>
+    <p><b>[R3] Jika Permintaan NAIK dan Persediaan BANYAK, maka Produksi BERTAMBAH</b></p>
+    
+    <table style="border:none; margin:0;">
+      <tr>
+        <td style="border:none; width:50%; vertical-align:middle; padding:5px;">
+          <div class="formula-block">
+            <b>• α-predikat₃</b> = min(μ<sub>NAIK</sub>(2600); μ<sub>BANYAK</sub>(440))<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = min(0,17 ; 0,68)<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = <b>0,17</b> (atau 0,1714)<br><br>
+            <b>• Nilai z₃:</b><br>
+            &nbsp;&nbsp;μ(z) = (z₃ - 3000) / (6000 - 3000)<br>
+            &nbsp;&nbsp;0,1714 = (z₃ - 3000) / 3000<br>
+            &nbsp;&nbsp;z₃ - 3000 = 514,29<br>
+            &nbsp;&nbsp;z₃ = 3000 + 514,29 = <b>3514,29</b>
+          </div>
+        </td>
+        <td style="border:none; width:50%; vertical-align:middle; padding:5px;">
+          <svg viewBox="0 0 380 180" width="100%" height="170" style="background:#fff; border:1px solid #cbd5e1; border-radius:6px;">
+            <rect x="245" y="8" width="75" height="18" fill="#2563eb" rx="3"/>
+            <text x="282" y="21" fill="#fff" font-size="9" font-weight="bold" text-anchor="middle">BERTAMBAH</text>
+            <line x1="45" y1="145" x2="350" y2="145" stroke="#334155" stroke-width="1.8"/>
+            <line x1="45" y1="145" x2="45" y2="30" stroke="#334155" stroke-width="1.8"/>
+            <polyline points="45,145 95,145 285,35 330,35" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+
+            <line x1="45" y1="126.1" x2="127.5" y2="126.1" stroke="#ef4444" stroke-dasharray="3,3" stroke-width="1.5"/>
+            <line x1="127.5" y1="126.1" x2="127.5" y2="145" stroke="#ef4444" stroke-dasharray="3,3" stroke-width="1.8"/>
+            <circle cx="127.5" cy="126.1" r="3.5" fill="#ef4444"/>
+
+            <text x="35" y="129" font-size="9" font-weight="bold" fill="#ef4444" font-family="monospace" text-anchor="end">0.17</text>
+            <text x="95" y="160" font-size="9" font-family="monospace" text-anchor="middle">3000</text>
+            <text x="135" y="172" font-size="9" font-weight="bold" fill="#ef4444" font-family="monospace" text-anchor="middle">z₃=3514</text>
+            <text x="285" y="160" font-size="9" font-family="monospace" text-anchor="middle">6000</text>
+          </svg>
+        </td>
+      </tr>
+    </table>
+  </div>
+
+  <!-- SLIDE 9: RULE 4 -->
+  <div class="slide-box">
+    <div class="slide-header">
+      <span class="slide-title">2. INFERENSI — Evaluasi Rule 4 [R4]</span>
+    </div>
+    <p><b>[R4] Jika Permintaan NAIK dan Persediaan SEDIKIT, maka Produksi BERTAMBAH</b></p>
+    
+    <table style="border:none; margin:0;">
+      <tr>
+        <td style="border:none; width:50%; vertical-align:middle; padding:5px;">
+          <div class="formula-block">
+            <b>• α-predikat₄</b> = min(μ<sub>NAIK</sub>(2600); μ<sub>SEDIKIT</sub>(440))<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = min(0,17 ; 0,32)<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = <b>0,17</b> (atau 0,1714)<br><br>
+            <b>• Nilai z₄:</b><br>
+            &nbsp;&nbsp;μ(z) = (z₄ - 3000) / (6000 - 3000)<br>
+            &nbsp;&nbsp;0,1714 = (z₄ - 3000) / 3000<br>
+            &nbsp;&nbsp;z₄ - 3000 = 514,29<br>
+            &nbsp;&nbsp;z₄ = 3000 + 514,29 = <b>3514,29</b>
+          </div>
+        </td>
+        <td style="border:none; width:50%; vertical-align:middle; padding:5px;">
+          <svg viewBox="0 0 380 180" width="100%" height="170" style="background:#fff; border:1px solid #cbd5e1; border-radius:6px;">
+            <rect x="245" y="8" width="75" height="18" fill="#2563eb" rx="3"/>
+            <text x="282" y="21" fill="#fff" font-size="9" font-weight="bold" text-anchor="middle">BERTAMBAH</text>
+            <line x1="45" y1="145" x2="350" y2="145" stroke="#334155" stroke-width="1.8"/>
+            <line x1="45" y1="145" x2="45" y2="30" stroke="#334155" stroke-width="1.8"/>
+            <polyline points="45,145 95,145 285,35 330,35" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+
+            <line x1="45" y1="126.1" x2="127.5" y2="126.1" stroke="#ef4444" stroke-dasharray="3,3" stroke-width="1.5"/>
+            <line x1="127.5" y1="126.1" x2="127.5" y2="145" stroke="#ef4444" stroke-dasharray="3,3" stroke-width="1.8"/>
+            <circle cx="127.5" cy="126.1" r="3.5" fill="#ef4444"/>
+
+            <text x="35" y="129" font-size="9" font-weight="bold" fill="#ef4444" font-family="monospace" text-anchor="end">0.17</text>
+            <text x="95" y="160" font-size="9" font-family="monospace" text-anchor="middle">3000</text>
+            <text x="135" y="172" font-size="9" font-weight="bold" fill="#ef4444" font-family="monospace" text-anchor="middle">z₄=3514</text>
+            <text x="285" y="160" font-size="9" font-family="monospace" text-anchor="middle">6000</text>
+          </svg>
+        </td>
+      </tr>
+    </table>
+  </div>
+
+  <!-- SLIDE 10: DEFUZZIFIKASI -->
+  <div class="slide-box">
+    <div class="slide-header">
+      <span class="slide-title">3. DEFUZZIFIKASI — Metode Rata-Rata Terbobot (Average)</span>
+    </div>
+
+    <p><b>Metode Average (rata-rata):</b></p>
+    <div style="font-size:12pt; text-align:center; padding:10px;" class="formula-block">
+      <b>Z* = Σ(α<sub>i</sub> × z<sub>i</sub>) / Σ(α<sub>i</sub>)</b>
+    </div>
+
+    <table>
+      <tr>
+        <th>Aturan</th>
+        <th>α-predikat (α<sub>i</sub>)</th>
+        <th>Nilai z (z<sub>i</sub>)</th>
+        <th>Bobot (α<sub>i</sub> × z<sub>i</sub>)</th>
+      </tr>
+      <tr>
+        <td><b>[R1]</b></td>
+        <td>0,68</td>
+        <td>3.960</td>
+        <td>0,68 × 3.960 = <b>2.692,80</b></td>
+      </tr>
+      <tr>
+        <td><b>[R2]</b></td>
+        <td>0,32</td>
+        <td>5.040</td>
+        <td>0,32 × 5.040 = <b>1.612,80</b></td>
+      </tr>
+      <tr>
+        <td><b>[R3]</b></td>
+        <td>0,1714</td>
+        <td>3.514,29</td>
+        <td>0,1714 × 3.514,29 = <b>602,45</b></td>
+      </tr>
+      <tr>
+        <td><b>[R4]</b></td>
+        <td>0,1714</td>
+        <td>3.514,29</td>
+        <td>0,1714 × 3.514,29 = <b>602,45</b></td>
+      </tr>
+      <tr style="background:#fef08a; font-weight:bold;">
+        <td>TOTAL (Σ)</td>
+        <td>1,3428</td>
+        <td>—</td>
+        <td>5.510,50</td>
+      </tr>
+    </table>
+
+    <div class="formula-block" style="text-align:center; font-size:11.5pt; margin:14px 0;">
+      Z* = (2.692,80 + 1.612,80 + 602,45 + 602,45) / (0,68 + 0,32 + 0,1714 + 0,1714)<br><br>
+      Z* = 5.510,50 / 1,3428 = <b>4.103,74</b> ≈ <span style="font-size:14pt; color:#15803d; font-weight:bold;">4.104 bungkus</span>
+    </div>
+
+    <div class="result-banner">
+      KESIMPULAN:<br>
+      Jika banyaknya permintaan bernilai 2.600 bungkus dan persediaan bernilai 440 bungkus,<br>
+      maka jumlah produksi optimal opak gambir adalah <u>4.104 bungkus</u>.
+    </div>
+  </div>
+
+</div>
+</div>
+</body>
+</html>
