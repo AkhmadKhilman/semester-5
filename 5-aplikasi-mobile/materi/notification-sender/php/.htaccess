@@ -1,0 +1,4 @@
+# Apache: cegah service-account.json diunduh lewat browser
+<FilesMatch "\.(json)$">
+    Require all denied
+</FilesMatch>
